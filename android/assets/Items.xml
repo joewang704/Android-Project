@@ -1,0 +1,14 @@
+<items>
+    <item type="head" imgName="bard" name="Bard's Helm"
+        atk="1" def="1" spd="0"
+        desc="Ayyyyyyy"/>
+    <item type="head" imgName="crown" name="Crown of Pussy"
+        atk="420" def="420" spd="0"
+        desc="L"/>
+    <item type="head" imgName="full" name="Drownin' in Pussy"
+        atk="6969" def="6969" spd="0"
+        desc="M"/>
+    <item type="head" imgName="great" name="Great Pussy"
+        atk="69" def="69" spd="15"
+        desc="AO"/>
+</items>
